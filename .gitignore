@@ -1,0 +1,16 @@
+# Rust
+/src-tauri/target/
+**/*.rs.bk
+
+# Node
+node_modules/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Build outputs
+*.zip
+*.dmg
